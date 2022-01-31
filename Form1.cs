@@ -18,7 +18,7 @@ namespace SkinChecker
         {
             if(textBox1.Text == "")
             {
-                MessageBox.Show("Вы не ввели никнейм.");
+                MessageBox.Show("Р’С‹ РЅРµ РІРІРµР»Рё РЅРёРєРЅРµР№Рј.");
             } else
             {
                 string sURL = $"https://minotar.net/armor/body/{textBox1.Text}/210.png";
