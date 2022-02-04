@@ -1,0 +1,17 @@
+{
+  "nowlang": "EN",
+  "locale": {
+    "RU": {
+      "look": "Посмотреть",
+      "currlang": "Текущий язык: Русский",
+      "err_nonick": "Вы не ввели никнейм.",
+      "err_nochoicelang": "Вы не указали желаемый язык."
+    },
+    "EN": {
+      "look": "Look",
+      "currlang": "Current language: English\nTranslation may not be\naccurate",
+      "err_nonick": "You have not entered a nickname.",
+      "err_nochoicelang": "You did not specify the required language."
+    }
+  }
+}
