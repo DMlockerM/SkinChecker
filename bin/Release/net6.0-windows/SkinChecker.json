@@ -1,5 +1,5 @@
 {
-  "nowlang": "EN",
+  "nowlang": "RU",
   "locale": {
     "RU": {
       "look": "Посмотреть",
@@ -8,10 +8,10 @@
       "err_nochoicelang": "Вы не указали желаемый язык."
     },
     "EN": {
-      "look": "Look",
-      "currlang": "Current language: English\nTranslation may not be\naccurate",
-      "err_nonick": "You have not entered a nickname.",
-      "err_nochoicelang": "You did not specify the required language."
+      "look": "View the skin",
+      "currlang": "Current Language: English\nTranslation may be\ninaccurate",
+      "err_nonick": "You didn't enter a nickname.",
+      "err_nochoicelang": "You didn't specify the desired language."
     }
   }
 }
